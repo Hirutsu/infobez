@@ -1,0 +1,15 @@
+L:\GIT\InfBez\InfBez\bin\Debug\net6.0\InfBez.exe
+L:\GIT\InfBez\InfBez\bin\Debug\net6.0\InfBez.deps.json
+L:\GIT\InfBez\InfBez\bin\Debug\net6.0\InfBez.runtimeconfig.json
+L:\GIT\InfBez\InfBez\bin\Debug\net6.0\InfBez.dll
+L:\GIT\InfBez\InfBez\bin\Debug\net6.0\InfBez.pdb
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.csproj.AssemblyReference.cache
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.GeneratedMSBuildEditorConfig.editorconfig
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.AssemblyInfoInputs.cache
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.AssemblyInfo.cs
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.csproj.CoreCompileInputs.cache
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.dll
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\refint\InfBez.dll
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.pdb
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\InfBez.genruntimeconfig.cache
+L:\GIT\InfBez\InfBez\obj\Debug\net6.0\ref\InfBez.dll
