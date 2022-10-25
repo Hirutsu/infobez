@@ -24,26 +24,23 @@ namespace Infbez
         private string Execute(string text, string key, bool doEncrypt)
         {
             StringBuilder result = new(text.Length);
-            int q = Alphabet.Length;
 
             while (key.Length < text.Length)
             {
                 key += key;
             }
 
-            string gamma = key[..text.Length];
-
             for (int i = 0; i < text.Length; i++)
             {
                 var letterIndex = Alphabet.IndexOf(text[i]);
-                var codeIndex = Alphabet.IndexOf(gamma[i]);
+                var codeIndex = Alphabet.IndexOf(key[..text.Length][i]);
                 if (letterIndex < 0)
                 {
                     result.Append(text[i]);
                 }
                 else
                 {
-                    result.Append(Alphabet[(q + letterIndex + ((doEncrypt ? 1 : -1) * codeIndex)) % q]);
+                    result.Append(Alphabet[(Alphabet.Length + letterIndex + ((doEncrypt ? 1 : -1) * codeIndex)) % Alphabet.Length]);
                 }
             }
 

@@ -19,7 +19,7 @@ var code = Encoding.GetEncoding(1251);
 //task1
 void Task1()
 {
-    List<KeyValuePair<string, int>> files = new();
+    List<KeyValuePair<string, long>> files = new();
     Hash.GetFiles(directory, ref files);
     foreach (var file in files)
     {

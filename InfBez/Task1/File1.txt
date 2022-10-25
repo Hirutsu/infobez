@@ -1,1 +1,5 @@
-System.Collections.Generic.List`1[System.Collections.Generic.KeyValuePair`2[System.String,System.Int32]]
+L:\GIT\InfBez\InfBez\Task1\File1.txt-> Hash:6722
+L:\GIT\InfBez\InfBez\Task1\Folder1\File2.txt-> Hash:400
+L:\GIT\InfBez\InfBez\Task1\Folder1\Folder11\File3.txt-> Hash:337
+L:\GIT\InfBez\InfBez\Task1\Folder2\File4.txt-> Hash:293
+L:\GIT\InfBez\InfBez\Task1\Folder3\File5.txt-> Hash:1436
